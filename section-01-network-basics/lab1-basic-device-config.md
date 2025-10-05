@@ -10,6 +10,7 @@
 4. Save configuration.
 
 ## Commands Used
+```bash
 Router> enable
 Router# configure terminal
 Router(config)# hostname R1
