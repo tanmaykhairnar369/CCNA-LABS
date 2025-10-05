@@ -10,7 +10,7 @@
 4. Save configuration.
 
 ## Commands Used
-```bash
+```bash 
 Router> enable
 Router# configure terminal
 Router(config)# hostname R1
@@ -20,7 +20,7 @@ Router(config-line)# login
 Router(config)# enable secret class
 Router(config)# end
 Router# write memory
-
+```
 ## Key Learnings
 - Difference between `enable password` and `enable secret`.
 - Importance of securing console access.
